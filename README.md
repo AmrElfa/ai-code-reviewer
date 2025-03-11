@@ -44,3 +44,6 @@ The project automatically reviews pull requests in a GitHub repository. It:
 4. Watch the workflow run and see the AI-generated code review suggestions in the pull request.
 
 ---
+
+<!-- This is a test commit to verify GitHub contributions. -->
+
